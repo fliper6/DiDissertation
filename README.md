@@ -1,7 +1,6 @@
 <h1 align="center">CLAV - Developing Elimination Statements</h1>
 <h3 align="center">CLAV - Processamento dos Autos de Eliminação</h3>
 <p align="center"> Master's Dissertation | Software Engineering | October 2022 </p>
-Author: [Filipa Santos](https://github.com/fliper6)
 ---
 #### DESCRIPTION: <br/>
 
@@ -20,3 +19,7 @@ All the code developed can be found at following repositories:
 Currently, it's deployed under the [CLAV's domain](http://clav.di.uminho.pt/) and is currently being used in production by their team (the server hosted at DI will soon be transferred to qldclav.dglab.gov.pt.).
 
 <i>Note:</i> The document and the platform are only available in Portuguese.
+---
+
+
+Author: [Filipa Santos](https://github.com/fliper6)
