@@ -5,9 +5,12 @@
 ---
 
 #### DESCRIPTION: <br/>
-- Full-Stack Web Application built using Vue.js, Node.js, MongoDB and GraphDB. <br/>
-- Archive management system for portuguese entities to sort and evaluate public information. <br/>
-- The elimination statements are requests by said public entities to eliminate certain documentation. All the process of submitting, validating and storing these requests was developed. <br/>
+
+CLAV is a project developed by [DGLAB](https://dglab.gov.pt/), the portuguese institution responsible for ensuring the coordination of the national archives system, school books, libraries and reading. CLAV appears as a solution to the great loss of information caused by the use of paper as the main method of conservation, as well as the inability of this method to process the enormous amount of digital information produced nowadays. The platform is an archive management system for portuguese entities to sort and evaluate public information, according to standards and guidelines outlined by DGLAB. <br/>
+
+An essential part for the proper functioning of the platform includes the elimination of archived information, which allows for a more efficient management, as well as a reduction in storage costs, which improves efficiency and effectiveness in retrieving information. The elimination statements are requests by the public entities to eliminate certain documentation. The aim of this dissertation was to continue the development these requests, including its submission, validation and storage. <br/>
+
+It consists in a full-stack web application built using [Vue.js](https://vuejs.org/), [Node.js](https://nodejs.org/), [MongoDB](https://www.mongodb.com/) and [GraphDB](https://graphdb.ontotext.com/). <br/>
 
 #### LINKS: <br/>
 All the code developed can be found at following repositories:
