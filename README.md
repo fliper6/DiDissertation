@@ -10,4 +10,4 @@
 - The elimination statements are requests by said public entities to eliminate certain documentation. All the process of submitting, validating and storing these requests was developed. <br/>
 
 #### LINKS: <br/>
-Currently, it's deployed under the CLAV's [domain](http://clav.di.uminho.pt/) and is currently being used in production by their team. 
+Currently, it's deployed under the [CLAV's domain](http://clav.di.uminho.pt/) and is currently being used in production by their team. 
