@@ -1,6 +1,6 @@
 <h1 align="center">CLAV - Developing Elimination Statements</h1>
 <h3 align="center">CLAV - Processamento dos Autos de Eliminação</h3>
-<p  align="center"> Master's Dissertation - Software Engineering, October 2022 </p>
+<p  align="center"> Software Engineering Master's Dissertation by [Filipa Santos](https://github.com/fliper6), October 2022 </p>
 
 ---
 
