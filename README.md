@@ -1,7 +1,3 @@
-
-<p align="center">
- <img src="https://facs2017.di.uminho.pt/sites/default/files/logo_UMEENG_sem_nome.jpg" align="center" height="125"> <br/>
-</p>
 <h1 align="center">CLAV - Developing Elimination Statements</h1>
 <h3 align="center">CLAV - Processamento dos Autos de Eliminação</h3>
 ---
