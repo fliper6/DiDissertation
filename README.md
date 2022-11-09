@@ -18,3 +18,5 @@ All the code developed can be found at following repositories:
 - Backend: [CLAV2019](https://github.com/jcramalho/CLAV2019) <br/>
 
 Currently, it's deployed under the [CLAV's domain](http://clav.di.uminho.pt/) and is currently being used in production by their team (the server hosted at DI will soon be transferred to qldclav.dglab.gov.pt.).
+
+<i>Note:</i> The document and the platform is only available in Portuguese.
